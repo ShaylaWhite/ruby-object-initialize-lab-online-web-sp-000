@@ -20,6 +20,8 @@ class Dog
   def breed
     @breed
   end
+  
+  def breed
     if breed = ""
       puts "Mutt"
   end 
